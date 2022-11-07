@@ -1,5 +1,6 @@
+¡Hola!👋 soy Juanbs
+---
 Algunas de las herramientas y habilidades que manejo:
-
 - JavaScript (Intermedio)
 - TypeScript (Básico)
 - ReactJs
